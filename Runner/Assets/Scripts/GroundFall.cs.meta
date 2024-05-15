@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0697c9f17a47e444c9e6fbd0e81ae1ab
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - groundFallSoundClip: {fileID: 8300000, guid: 0a61edcd3a4d12d4ca8b294e040edaa2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
